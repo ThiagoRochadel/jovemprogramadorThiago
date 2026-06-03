@@ -34,7 +34,7 @@ public class Main {
 
             switch (opcao){
                 case 1:
-                    System.out.println("Adicionar Tarefa");
+                    System.out.println("Adicionar Tarefa ");
                     System.out.print("Digite uma tarefa: ");
                     tarefas.add(sc.nextLine());
                     System.out.println("\nTarefa Adicionada!\n");
