@@ -66,7 +66,7 @@ public class Main {
 
         }while(opcao != 4);
 
-        System.out.println("Sistema Finalizado");
+        System.out.println("Sistema Finalizado ");
 
         sc.close();
     }
