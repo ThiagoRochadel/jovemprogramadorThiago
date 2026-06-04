@@ -13,7 +13,7 @@ public class Main {
             System.out.print("""
 
                     ===MENU===
-                    1. Adicionar Tarefa
+                    1. Adicionar  Tarefa
                     2. Remover Tarefa
                     3. Listar Tarefas
                     4. Sair
@@ -66,7 +66,7 @@ public class Main {
 
         }while(opcao != 4);
 
-        System.out.println("Sistema Finalizado");
+        System.out.println("Sistema Finalizado ");
 
         sc.close();
     }
