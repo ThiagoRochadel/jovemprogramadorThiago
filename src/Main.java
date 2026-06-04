@@ -23,7 +23,7 @@ public class Main {
 
 
             if(!sc.hasNextInt()){
-                System.out.println("Digite um número e não escreva!");
+                System.out.println("Digite um número e não escreva !");
                 sc.nextLine();
                 continue;
             }
